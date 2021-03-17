@@ -28,6 +28,7 @@ footer{
     justify-content: space-around;
     height: 60px;
     background-color: grey;
+    
     align-items: center;
     
     
@@ -44,4 +45,4 @@ button{
     width: 90px;
 
  }
-    
+a { color: black;} 
