@@ -8,7 +8,8 @@ flex-direction: row;
 justify-content: space-between;
 }
 
-
+img { width:290px;  
+}
 
 main{ 
     display: flex;
@@ -45,4 +46,7 @@ button{
     width: 90px;
 
  }
-a { color: black;} 
+a { color: black;
+} 
+.search{ width: 400px;
+}
